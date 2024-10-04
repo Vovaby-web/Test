@@ -1,4 +1,13 @@
 {
-  "name": "Petr",
-  "age": 30
+  "name": "Petr Ivanov",
+  "age": 30,
+  "isDeveloper": true,
+  "skills": ["Java", "Kotlin", "Android"],
+  "phoneNumbers": [
+       "8-999-123-00-00",
+       "8-999-000-12-34"],
+  "address": {
+       "streetAddress": "Camping Europa",
+       "city": "Menaggio",
+       "postalCode": 101101 }
 }
